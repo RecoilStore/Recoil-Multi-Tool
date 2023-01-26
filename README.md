@@ -4,7 +4,7 @@ Very usefull tool for stuff like: copy server template, ip grab, ddos attacks, n
 Step 1:
 turn off anti-virus
 Step 2:
-Download the RecoilToolSetup file
+Download the RecoilToolSetup file from: 
 Step 3:
 Run the RecoilToolSetup file
 Step 4: 
