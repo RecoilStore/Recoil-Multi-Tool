@@ -12,4 +12,5 @@ Step 4:
 just wait untill everything install itself
 # How to use?
 After running RecoilToolSetup file you will run the ToolMain file and from there you can choose options to use the tool
-# Enjoy!
+# Enjoy and leave a star!
+# https://dsc.gg/recoilstore
